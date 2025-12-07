@@ -1,0 +1,2 @@
+# BLM101_24360859079_IlaydaGundogdu
+Bilgisayar Mühendisliğine Giriş Dönem Projesi
