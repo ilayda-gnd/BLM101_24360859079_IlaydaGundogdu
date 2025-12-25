@@ -49,7 +49,8 @@ olarak eklenir.
 Son aşamada Python’un dosya yazma özelliği kullanılarak oluşturulan HTML kodu
 `index.html` adlı dosyaya yazılır. Böylece kullanıcıdan alınan bilgilerle
 dinamik olarak oluşturulmuş bir web sayfası elde edilir.
-# Sonuç
+
+Sonuç
 Bu proje sayesinde Python kullanılarak basit bir web sayfasının otomatik olarak
 oluşturulabileceği gösterilmiştir. Proje, Python’un string işlemleri ve dosya
 yazma özelliklerinin pratik bir kullanımını sunmaktadır.
